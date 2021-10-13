@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 function1 - This is a very  important function.
+=======
+function1 - This is an not an important function.
+>>>>>>> confly
 function1 - Function 2 is added
 function3 - Function 3 is also added 
 
 
 adding chart functionalities to our application.
 
+<<<<<<< HEAD
 added some lines of code 
+=======
+adding another function to my application
+>>>>>>> confly
