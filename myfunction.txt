@@ -1,3 +1,6 @@
 function1 - This is an important function.
 function1 - Function 2 is added
 function3 - Function 3 is also added 
+
+
+adding chart functionalities to our application.
